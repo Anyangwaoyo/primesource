@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-sage: #7e9f86;
+  --color-brand-sage-light: #eef3f0;
+  --color-brand-sage-border: #cbd8cf;
+  --color-brand-forest: #1e5032;
+  --color-brand-forest-dark: #143822;
+  --color-brand-forest-light: #286640;
+  --color-brand-aqua: #0eb5b2;
+}
+
+:root {
+  --brand-sage: #7e9f86;
+  --brand-forest: #1e5032;
+  --brand-aqua: #0eb5b2;
+}
+
+body {
+  background-color: #f4f7f5;
+  color: #1e2b22;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PrimeSource Farm",
+  "description": "AgriTech fish farm monitoring and management platform for water quality, feeding, fish growth, and production records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
